@@ -1,4 +1,6 @@
-### Hi there, I'am Julia 👋
+### Hi there, I'm Julia 👋 
+
+## I'm a junior frontend developer from Russia. I’m currently learning JavaScript, HTML and CSS. Now I'm looking for a job as an intern or junior developer.
 
 [![codewars](https://www.codewars.com/users/JuliaKuvsh/badges/large)](https://www.codewars.com/users/JuliaKuvsh)   
 
