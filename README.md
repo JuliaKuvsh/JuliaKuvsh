@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am Julia 👋
 
 [![codewars](https://www.codewars.com/users/JuliaKuvsh/badges/large)](https://www.codewars.com/users/JuliaKuvsh)   
 
