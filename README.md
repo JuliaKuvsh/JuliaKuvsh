@@ -1,6 +1,6 @@
 ### Hi there, I'm Julia 👋 
 
-I'm an editor and junior frontend developer from Russia. I’m currently learning JavaScript, HTML and CSS.
+I'm an editor and frontend developer. I’m currently learning JavaScript, HTML and CSS.
 
 
 
